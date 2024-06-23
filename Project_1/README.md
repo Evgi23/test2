@@ -1,4 +1,4 @@
-# Project o. Guess the number less then in 20 attempts
+# Project_1. Guess the number less then in 20 attempts
 
 ## Table of contents
 [1. Project Description](https://github.com/Evgi23/test2/blob/main/Project_1/README.md#Project-Description)
