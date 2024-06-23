@@ -4,8 +4,10 @@ Fro the[SkillFactory Data Science course](https://apps.skillfactory.ru/learning/
 
 ## Projects
 
-* [Project 0. Guess number](https://github.com/Evgi23/test2)
+* [Project 0. Guess number]([https://github.com/Evgi23/test2/tree/main/Project%200)
 * [Project 1.____](__)
 * [Project 2. ___](__)
 
 ## Link for CV
+
+[https://github.com/Evgi23/test2/tree/main/Project%200]: https://github.com/Evgi23/test2/tree/main/Project%200
